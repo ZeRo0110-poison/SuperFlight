@@ -1,0 +1,57 @@
+#arriba{
+    font-family: 'Playfair Display SC ',serif;
+    
+}
+
+#arriba h1{
+    align-content: center;
+    margin-left: 190px;
+}
+
+#locote{
+    background-color: #999;
+    margin-bottom: 10px;
+}
+
+#blo{
+    display: flex;
+}
+
+#arriba #imagen{
+    width: 26px;
+    height: 20px;
+}
+
+#imagen1{
+    width: 16px;
+    height: 16px;
+}
+
+#pie{
+    background-color: #000000;
+    align-self: baseline;
+    
+}
+
+#arriba img{
+    width: 75px;
+    height: 50px;
+}
+
+#locota{
+    margin-left: 100px;
+}
+
+#pie img{
+    width: 24px; 
+    height: 24px;
+    margin: 10px;
+}
+
+#copy {         
+    text-align: center;         
+}
+
+#Tiquete img{
+    width: 500px;
+}
